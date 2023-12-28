@@ -7,7 +7,7 @@ class UserPass:
     output: return username and password 
     
     '''
-    def user_name( user= 'noora_gallery75'):
+    def user_name( user= 'your_UserName'):
         return user
-    def password( password= 'narges1234'):
+    def password( password= 'your_Pass'):
         return password
